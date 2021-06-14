@@ -8,6 +8,7 @@
     "go.enableCodeLens": {"references": false, "runtest": false},
     "go.addTags": {},
     "go.alternateTools": {},
+    "go.toolsManagement.autoUpdate": true,
     "go.useLanguageServer": true,
     "[go]": {
         "editor.snippetSuggestions": "none",
@@ -22,6 +23,9 @@
         "completeUnimported": true, // autocomplete unimported packages
         "deepCompletion": true      // enable deep completion
     },
+    "go.lintFlags": [
+        "-checks=all"
+    ],
 
     "editor.fontSize": 14,
     "editor.formatOnType": true,
@@ -40,13 +44,11 @@
         "**/.vscode": true
     },
     "files.trimTrailingWhitespace": false,
-
-    "window.zoomLevel": 3,
     "editor.wordWrap": "off",
     "workbench.colorCustomizations": {
         "editorLineNumber.foreground": "#9F9F9F"
     },
-    "extensions.ignoreRecommendations": false,
+    "extensions.ignoreRecommendations": true,
     "liveshare.featureSet": "insiders",
     "workbench.colorTheme": "Zenburn",
     "C_Cpp.updateChannel": "Insiders",
@@ -56,5 +58,8 @@
     "explorer.compactFolders": false,
     "files.associations": {
         "*.go2": "go"
-    }
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 2,
+    "terminal.integrated.tabs.enabled": true,
 }

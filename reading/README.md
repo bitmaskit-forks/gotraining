@@ -2,6 +2,8 @@
 
 There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don't have an exact place to put it. This is a section place for that material.
 
+[The Ecosystem of the Go Programming Language](https://henvic.dev/posts/go/) - Henrique Vicente  
+
 ### Books
 
 [Go In Action](https://www.manning.com/books/go-in-action) - Kennedy, Ketelsen, St. Martin  
@@ -347,6 +349,7 @@ This content can be found under [pointers](../topics/go/language/pointers). We f
 [Garbage Collection In Go : Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html) - William Kennedy  
 [Garbage Collection In Go : Part II - GC Traces](https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html) - William Kennedy  
 [Garbage Collection In Go : Part III - GC Pacing](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html) - William Kennedy  
+[Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/) - Ross Engers  
 
 #### Escape Analysis and Inlining
 
@@ -398,7 +401,9 @@ https://godoc.org/golang.org/x/tools/go/ssa
 
 [Open issues for the upcoming release](https://dev.golang.org/release)
 
-[Go 1.14 Release Notes](https://golang.org/doc/go1.14) - 2020/02/26  
+[Go 1.16 Release Notes](https://golang.org/doc/go1.16) - 2021/02/16  
+[Go 1.15 Release Notes](https://golang.org/doc/go1.15) - 2020/08/11  
+[Go 1.14 Release Notes](https://golang.org/doc/go1.14) - 2020/02/25  
 [Go 1.13 Release Notes](https://golang.org/doc/go1.13) - 2019/09/03  
 [Go 1.12 Release Notes](https://golang.org/doc/go1.12) - 2019/02/25  
 [Go 1.11 Release Notes](https://golang.org/doc/go1.11) - 2018/08/24  

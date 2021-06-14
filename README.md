@@ -52,10 +52,9 @@ _**Articles**_
 [IT World Canada](http://www.itworldcanada.com/article/nascent-google-development-language-shows-promise-for-more-productive-coding/387449)
 
 _**Video**_  
-[Go Generics Draft Proposal (2020)](https://www.youtube.com/watch?v=gIEPspmbMHM&t=2069s)
-
+[Dgrpah Day (2021) - Getting Started With Dgraph and GraphQL](https://www.youtube.com/watch?v=5L4PUbDqSEo)  
+[GDN Event #1 (2021) - GoBridge Needs Your Help](https://www.youtube.com/watch?v=Tst0oI97cvQ&t=2s)  
 [Training Within The Go Community (2019)](https://www.youtube.com/watch?v=PSR1twjzzAM&feature=youtu.be)  
-
 [GopherCon Australia (2019) - Modules](https://www.youtube.com/watch?v=MVxbVR_6Tac)  
 [Golab (2019) - You Want To Build a Web Service?](https://www.youtube.com/watch?v=IV0wrVb31Pg)  
 [GopherCon Singapore (2019) - Garbage Collection Semantics](https://www.youtube.com/watch?v=q4HoWwdZUHs)  
@@ -75,6 +74,9 @@ _**Video**_
 [GothamGo (2015) - Error Handling in Go](https://vimeo.com/115782573)  
 [GopherCon (2014) - Building an analytics engine](https://www.youtube.com/watch?v=EfJRQ1lGkUk)  
 
+[Prague Meetup (2021) - Go Module Engineering Decisions](https://youtu.be/m8lgcXv2lhI)  
+[Practical Understanding Of Scheduler Semantics (2021)](https://www.youtube.com/watch?v=p2Cjq3Dq2Q0)  
+[Go Generics Draft Proposal (2020)](https://www.youtube.com/watch?v=gIEPspmbMHM&t=2069s)  
 [Hack Potsdam (2017) - Tech Talk with William Kennedy](https://www.youtube.com/watch?v=sBzJ-sjhgs8)  
 [Chicago Meetup (2016) - An Evening](https://vimeo.com/199832344)  
 [Vancouver Meetup (2016) - Go Talk & Ask Me Anything With William Kennedy](https://www.youtube.com/watch?v=7YcLIbG1ekM&t=91s)  
@@ -85,6 +87,8 @@ _**Video**_
 [Vancouver Meetup - Decoupling From Change](https://www.youtube.com/watch?v=7YcLIbG1ekM&feature=youtu.be)  
 
 _**Podcasts**_  
+[Ardan Labs Podcast: On Going Series](https://ardanlabs.buzzsprout.com/)  
+[GoTime: Design Philosophy](https://changelog.com/gotime/172)  
 [GoTime: Learning and Teaching Go](https://changelog.com/gotime/72)  
 [GoTime: Bill Kennedy on Mechanical Sympathy](https://changelog.com/gotime/6)  
 [GoTime: Discussing Imposter Syndrome](https://changelog.com/gotime/30)  
@@ -97,6 +101,7 @@ Go is an open source programming language that makes it easy to build simple, re
 
 Go is the fusion of performance and productivity wrapped in a language that software developers can learn, use and understand. Go is not C, yet we have many of the benefits of C with the benefits of higher level programming languages.
 
+[The Ecosystem of the Go Programming Language](https://henvic.dev/posts/go/) - Henrique Vicente  
 [The Why of Go](https://www.infoq.com/presentations/go-concurrency-gc) - Carmen Andoh  
 [Go Ten Years and Climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html) - Rob Pike  
 [The eigenvector of "Why we moved from language X to language Y"](https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html) - Erik Bernhardsson  
